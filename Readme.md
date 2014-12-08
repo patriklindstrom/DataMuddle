@@ -3,4 +3,4 @@ DataMuddle is for replacing and changing data so you can move it from  productio
 ###Status###
 Very early just trying out.
 ###Roadmap###
-See what I want for the general plan. 
+See what [I want](https://github.com/patriklindstrom/DataMuddle/blob/master/whatIwant.md#about-datamuddler) for the general plan. 
