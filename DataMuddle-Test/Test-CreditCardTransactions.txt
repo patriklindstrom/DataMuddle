@@ -1,0 +1,5 @@
+﻿"5247675238895933","Rhino foot","Extinct shop","Stockholm","Sweden",1023.73
+"4916599542765017","Spice","Cheech and Chong coffeshop","Amsterdam","Netherland",98.98
+"372336288942723","Massage HE","Thai Total Health Club","Stockholm","Sweden",780.00
+"6011817897862422","BFG","Gun shop","Washington","USA",1200
+"5479152114375488","Hit job","Clean up service","Santa Monica","USA",120000

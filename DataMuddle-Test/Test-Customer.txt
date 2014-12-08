@@ -1,0 +1,5 @@
+﻿"Patrik","Lindström","5247675238895933","Skeppargatan 27","Stockholm","Sweden"
+"Emma","Lindström","4916599542765017","Ektorpsvägen 11","Stockholm","Sweden"
+"Fredrik","Döberl","372336288942723","Narvavägen 10","Stockholm","Sweden"
+"John","Doe","6011817897862422","White House","Washington","USA"
+"Jane","Doe","5479152114375488","Santa Monica","USA"

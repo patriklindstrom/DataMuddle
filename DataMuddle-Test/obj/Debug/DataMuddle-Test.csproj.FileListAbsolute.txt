@@ -1,0 +1,7 @@
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\bin\Debug\DataMuddle-Test.dll
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\bin\Debug\DataMuddle-Test.pdb
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\bin\Debug\DataMuddle.exe
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\bin\Debug\DataMuddle.pdb
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\obj\Debug\DataMuddle-Test.csprojResolveAssemblyReference.cache
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\obj\Debug\DataMuddle-Test.dll
+D:\Users\Patrik\Documents\GitHub\DataMuddle\DataMuddle-Test\obj\Debug\DataMuddle-Test.pdb
